@@ -30,7 +30,7 @@ L'obbiettivo del progetto è quello di mostrare all'azienda le stazioni utilizza
 
 3) Viene creato un database con postgreSQL e importo i dati al suo interno. File nominato: "Creazione_database.sql".
 
-4) Tramite query in SQL troviamo 2 tabelle, che rispettivamente mostrano: le 20 stazioni più e meno utilizzate; il tutto dopo una pulizia dei viaggi che capitava risultassero di zero secondi. Successivamente vengono elaborati su Visual Studio tramite il linguaggio Python e altre SQL all'interno di PostgreSQL.
+4) Tramite query in SQL troviamo 2 tabelle, che rispettivamente mostrano: le 20 stazioni più e meno utilizzate; il tutto dopo una pulizia dei viaggi che capitava risultassero di zero secondi. Successivamente vengono elaborati su Visual Studio tramite il linguaggio Python e altre query SQL all'interno di PostgreSQL.
 Parte dei file che sono stati caricati sono:
 Pulizia_dati.sql
 Stazioni_meno_utilizzate.sql
@@ -89,7 +89,7 @@ The goal of the project is to show the company which stations are most frequentl
 
 3) A database was created using PostgreSQL, and the data was imported into it. The file was named "Creazione_database.sql".
 
-4) Using SQL queries, two tables were generated showing: the 20 most and least used stations, respectively; this was done after cleaning trips that were recorded as zero seconds. The data was then further processed in Visual Studio using Python and additional SQL within PostgreSQL.
+4) Using SQL queries, two tables were generated showing: the 20 most and least used stations, respectively; this was done after cleaning trips that were recorded as zero seconds. The data was then further processed in Visual Studio using Python and additional query SQL within PostgreSQL.
 Some of the files uploaded include:
 
 Pulizia_dati.sql
