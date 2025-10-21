@@ -17,3 +17,4 @@ CREATE TABLE trips (
     end_lng          DOUBLE PRECISION,
     member_casual    VARCHAR(20)
 );
+
